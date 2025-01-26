@@ -1,0 +1,8 @@
+List is similar to a vector . it store element of the same type and dynamically grow in size.
+
+The major differenc between lists and vectors are : 
+
+1. we can add and remove elements form both the beginning and at the end of a list , while vectors are generally optimized for adding and removing at the end.
+
+2. Unlike vector, list does not support random access, mean we cannot directly jump to a specific index, or access elements by index numbers.
+
