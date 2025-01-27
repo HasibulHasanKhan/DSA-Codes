@@ -1,0 +1,3 @@
+Deque stands for double-ended queue .
+element can be added and removed from both ends at the front and back side.
+-> we can also acces elements by index numbers.
