@@ -1,0 +1,8 @@
+Queue store multiple element in a specific order, called FIFO.
+
+FIFO : stand for First in , First Out . 
+-> elements in the queue are not accessed by index numbers. Since queque are not accessed by index numbers . Since queue elements are .
+
+-> added at the end and removed from the front.
+-> you can only access an element at the front or the back.
+
