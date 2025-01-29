@@ -13,7 +13,13 @@ int main () {
    } else {
      cout << "The numbers 3 was not found. " << endl;
    }
+    auto its = min_element(numbers.begin(), numbers.end());
+    
+    auto upper = upper_bound(numbers.begin() , numbers.end() ,5);
+    cout << *its;   
 
+    cout << endl;
+    cout << *upper;
    return 0;
 
 }
